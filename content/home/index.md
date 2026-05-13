@@ -28,6 +28,7 @@ You can find more information on my [LinkedIn](https://www.linkedin.com/in/gabri
 My publications are available on the dedicated [publications](@/publications/_index.md) page and through my [Google Scholar](https://scholar.google.com/citations?user=W_Ck-tkAAAAJ) profile. A comprehensive list of my presentations can be found on the [talks](@/talks/_index.md) page, and you can explore the public software libraries I've developed and contributed to on my [GitHub](https://github.com/gabrielloiseau).
 
 ## News
+- **May 2026.** I'll be at *LREC 2026* to present our CALD-pseudo paper on distilling privacy sensitivity assessment from LLMs.
 - **April 2026.** Our paper on adaptive text anonymization has been accepted to *ACL 2026* (Findings).
 - **March 2026.** Our paper on distilling privacy sensitivity assessment from LLMs has been accepted to CALD-pseudo (*LREC 2026* workshop)! Check out the [preprint](https://arxiv.org/abs/2603.29497).
 - **February 2026.** New preprint on adaptive text anonymization: a novel task framework for context-aware, task-specific anonymization of text!
@@ -36,7 +37,6 @@ My publications are available on the dedicated [publications](@/publications/_in
 - **September 2025.** Our Tau-Eval paper has been accepted to *EMNLP 2025*.
 - **June 2025.** I'll be presenting our new evaluation framework for text anonymization at the 15th *Atelier sur la Protection de la Vie Privée* in Chasseneuil-du-Poitou (June 9-12).
 - **June 2025.** New preprint available! We've developed a comprehensive evaluation framework and Python library for assessing text anonymization methods.
-- **April 2025.** Presenting at *NAACL* (April 29 - May 4) on our latest PrivateNLP paper.
 
 ## Contact Me
 
