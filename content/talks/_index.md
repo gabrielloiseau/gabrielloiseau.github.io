@@ -5,6 +5,10 @@ description = "Yet another Discord server bridged to Matrix."
 styles = ["snug-nook/snug-nook.css"]
 +++
 
+- May 2026 <br>
+<b>Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models </b> <br>
+<a href="https://lrec2026.info/">LREC 2026</a> <a href="https://legal2026.mobileds.de/">CALD-pseudo 2026</a> (oral), Palma 🇪🇸
+
 - June 2025 <br> 
 <b>Tau-Eval: A Unified Evaluation Framework for Useful and Private Text Anonymization</b> <br> 
 <a href="https://apvp2025.sciencesconf.org/">APVP 2025</a>, Chasseneuil-du-Poitou 🇫🇷
