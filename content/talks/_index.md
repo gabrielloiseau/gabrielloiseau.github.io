@@ -23,7 +23,7 @@ styles = ["snug-nook/snug-nook.css"]
 
 - June 2024 <br>
 <b>WikiPhish: A Diverse Wikipedia-Based Dataset for Phishing Website Detection</b> <br>
-<a href="https://www.codaspy.org/2024/program.html">CODASPY 2024</a> (oral), Porto 🇪🇸
+<a href="https://www.codaspy.org/2024/program.html">CODASPY 2024</a> (oral), Porto 🇵🇹
 
 - June 2024 <br>
 <b>Email Text Anonymization with Large Language Models</b> <br>
